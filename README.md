@@ -7,4 +7,4 @@ I used only css and html
 
 the result of the task 
 
-![image](https://user-images.githubusercontent.com/78964639/216780713-2f839687-b265-40ac-b0d2-fbd7f7c11fa5.png)
+![image](https://user-images.githubusercontent.com/78964639/216784497-b2d11ded-584b-4390-ba07-d958f3d25e30.png)
